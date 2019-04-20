@@ -16,6 +16,7 @@
                 </div>
                 
             </div>   
+            <h3>Change</h3>
         @endforeach
         {{$posts->links()}}
     @else 
